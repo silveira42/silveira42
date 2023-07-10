@@ -11,7 +11,7 @@
 # _Who is this guy?_
 Well, it's nice to meet you too! I'm a developer who loves the ideal and strides to achieve it in every project.
 
-![Happy guy](refs/happyTomCruise.gif)
+<img src="refs/happyTomCruise.gif" alt="Happy Tom Cruise Gif" height="200" />
 
 <!--Skillset-->
 # 🤷 _What does he do?_
@@ -42,6 +42,9 @@ Not at all! I play basketball 🏀 most weekends, love to play the piano 🎹 & 
 
 <!--Contact info-->
 ## **_Wow! He's really got my attention! How do I get his?_**
+
+<img src="refs/steve-carell-wow.gif" alt="Happy Michael Scott Gif" height="200" />
+
 I'm pretty easy! Just contact me in any of the platforms shown below:
 
 I love to teach and I'm always happy to help!
