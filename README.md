@@ -23,10 +23,10 @@ I also have a few personal projects which allow me to use and improve in Typescr
 
 <!--Known languages/technologies-->
 ## 🏆 _Here is my programming languages tier list_
-| Great | ObjectScript |
+| 🥇 | ObjectScript |
 |:---:|:---:|
-| Currently improving | Javascript, Typescript, Python, Flutter |
-| Know the basics | C, Java, PHP, HTML, CSS, React |
+| 🥈 | Javascript, Typescript, Python, Flutter |
+| 🥉 | C, Java, PHP, HTML, CSS, React |
 
 <!--Skillset-->
 ## 📖 _How did he learn all that? (aka my story)_
