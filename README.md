@@ -15,11 +15,11 @@ Well, it's nice to meet you too! I'm a developer who loves the ideal and strides
 
 <!--Skillset-->
 # 🤷 _What does he do?_
-Currently I work with ObjectScript & the IRIS Platform used largely in hospitals and between systems integrations.
+Currently I work with **_ObjectScript_** & the **_IRIS_** Platform, used largely in hospitals and between systems integrations.
 
-Through that I have gained experience working with VTEX, SAP B1 Service Layer, SAP B1 Hana DB, OMS, Tasy and other ERPs and E-Commerces.
+Through that I have gained experience working with **_VTEX_**, **_SAP B1_** Service Layer, **_SAP B1_** Hana DB, **_OMS_**, **_Tasy_** and other **_ERPs_** and **_E-Commerces_**.
 
-I also have a few personal projects which allow me to use and improve in Typescript, Python & Flutter.
+I also have a few personal projects which allow me to use and improve in **_Typescript_**, **_Python_** & **_Flutter_**.
 
 <!--Known languages/technologies-->
 ## 🏆 _Here is my programming languages tier list_
