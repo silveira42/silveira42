@@ -3,7 +3,7 @@
 
 > It's not a cliché, it's a classic!
 
-- 💼 I’m currently working on [@Confluence](https://github.com/GitHub-Confluence)
+- 💼 I’m currently working at [@Bridger](https://github.com/Grupo-Bridger)
 - 😄 Pronouns: He/Him
 - 🔭 Enthusiast about: TDD, Clean Code, Agile...
 
