@@ -10,6 +10,8 @@
 - 😄 Pronouns: He/Him
 - 🔭 Enthusiast about: TDD, Clean Code, Agile...
 
+[![Structural](https://skillicons.dev/icons?i=linux,bash,debian,git,github,docker,jenkins,vscode&theme=dark)](https://skillicons.dev)
+
 <!--Introduction-->
 # _Who is this guy?_
 Well, it's nice to meet you too! I'm a developer who loves the ideal and strides to achieve it in every project.
