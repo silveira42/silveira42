@@ -3,6 +3,9 @@
 
 > It's not a cliché, it's a classic!
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/silveira42/silveira42/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/silveira42/silveira42/blob/main/LEIAME.md)
+
 - 💼 I’m currently working at [@Bridger](https://github.com/Grupo-Bridger)
 - 😄 Pronouns: He/Him
 - 🔭 Enthusiast about: TDD, Clean Code, Agile...
