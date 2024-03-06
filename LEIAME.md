@@ -10,6 +10,8 @@
 - 😄 Pronomes: Ele/Dele
 - 🔭 Meu interesses incluem: TDD, Clean Code, Agile, e muito mais!
 
+[![Structural](https://skillicons.dev/icons?i=linux,bash,debian,git,github,docker,jenkins,vscode&theme=dark)](https://skillicons.dev)
+
 <!--Introduction-->
 # _Quem é esse cara?_
 Prazer em te conhecer! Sou um desenvolvedor que adora o ideal e busca alcançá-lo em cada projeto.
